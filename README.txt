@@ -1,0 +1,1 @@
+This project is basically designed in Java.This project uses Java Swing for its user interface.This project only shows the connection with database on the localhost using Java Database Connectivity(JDBC).This project mainly helps the user ,how to create connection with localhost/own-system using JDBC driver.
